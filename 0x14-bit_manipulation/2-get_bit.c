@@ -4,6 +4,7 @@
  * get_bit - Entry Point
  * @n: input
  * @index: index
+ * Return: -1
  */
 
 int get_bit(unsigned long int n, unsigned int index)
