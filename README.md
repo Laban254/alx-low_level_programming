@@ -1,1 +1,1 @@
-Bitwise operators
+Bitwise operators in c.
