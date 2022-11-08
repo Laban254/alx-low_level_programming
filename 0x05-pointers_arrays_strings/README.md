@@ -28,7 +28,7 @@ Write a function that prints a string, in reverse, followed by a new line.
 Write a function that reverses a string.
 ## 6-puts2.c
 Write a function that prints one char out of 2 of a string, followed by a new line.
-## 7-puts_half.c
+## 7-puts_half.c.
 Write a function that prints half of a string, followed by a new line.
 ## 8-print_array.c
 Write a function that prints n elements of an array of integers, followed by a new line.
