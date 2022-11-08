@@ -55,5 +55,5 @@ Write a program that prints all possible combinations of single-digit numbers.
 - You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
 - All your code should be in the main function
 - You can only use putchar four times maximum in your code
-- You are not allowed to use any variable of type char
+- You are not allowed to use any variable of type char.
 
