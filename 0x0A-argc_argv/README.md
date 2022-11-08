@@ -1,1 +1,1 @@
-Argument to the main function
+Argument to the main function.
