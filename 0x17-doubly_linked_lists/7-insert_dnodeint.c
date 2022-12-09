@@ -20,7 +20,6 @@ dlistint_t *create_dnode(int n, dlistint_t *prev, dlistint_t *next)
 	new->next = next;
 	return (new);
 }
-
 /**
  * insert_dnodeint_at_index - inserts a new node at a given position
  * @h: head of doubly-linked list
@@ -41,7 +40,7 @@ dlistint_t *insert_dnodeint_at_index(dlistint_t **h, unsigned int idx, int n)
 			*h = create_dnode(n, NULL, NULL); /*first node*/
 		else
 		{
-			(*h)->prev = create_dnode(n, NULL, *h);NULL
+			(*h)->prev = create_dnode(n, NULL, *h);
 			*h = (*h)->prev;
 		}
 		return (*h);
