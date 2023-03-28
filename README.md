@@ -2,7 +2,7 @@
 
 # C is FUN but its not that easy😊
 
->Learning C right now.
+>Learning C .
 
 <p align="center">
   <img src="https://i.postimg.cc/rprHShJ1/C-compilation-process.gif" />
