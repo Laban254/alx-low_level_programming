@@ -42,6 +42,13 @@
 - [0x11](https://github.com/iAmG-r00t/printf) : Write our own printf project.
 - [0x12](./0x12-singly_linked_lists) : Singly linked lists.
 - [0x13](./0x13-more_singly_linked_lists) : More singly linked lists.
+- [0x14](./0x14-bit_manipulation) : bit_manipulation.
+- [0x15](./0x15-file_io) : Singly linked lists.
+- [0x17](./0x17-doubly_linked_lists) : doubly_linked_lists.
+- [0x18](./0x18-dynamic_libraries) : dynamic_libraries.
+- [0x1A](./0x1A-hash_tables) : hash_tables.
+- [0x1C](./0x1C-makefiles) : makefiles.
+- [0x1E](./0x1E-search_algorithms) : search_algorithms.
 
 
 
